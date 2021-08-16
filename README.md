@@ -1,2 +1,2 @@
 # English Thesaurus
-These contain all the Python Projects
+This contains a program that behaves as a dictionary.
